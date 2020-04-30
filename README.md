@@ -1,3 +1,6 @@
+# React App with the Power of Redux
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,3 +72,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
+## Used tools
+### React Framework
+* Bootstrapped with create-react-app V1.5.2
+### Redux Library
+* Redux: V4.0.5
+* Redux-thunk Middleware to return functions instead of actions: V2.3.0
+### UI Styling
+* Tachyons: 4.11.1
+
+**Additional informations and Credits This project was bootstrapped with** (`Create React App`).
+### Big thanks to zero => mastery 
+(`Github Repository of Zero to Mastery`)
