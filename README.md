@@ -81,6 +81,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### UI Styling
 * Tachyons: 4.11.1
 
-**Additional informations and Credits This project was bootstrapped with** (`Create React App`).
+**Additional informations and Credits This project was bootstrapped with** (https://reactjs.org/docs/create-a-new-react-app.html).
 ### Big thanks to zero => mastery 
-(`Github Repository of Zero to Mastery`)
+(https://github.com/zero-to-mastery)
